@@ -13,11 +13,11 @@ Game for the 2022 Global Game Jam
 > Platform-Adventure
 
 **Technologies**:
-> -Photoshop
+> Photoshop
 
-> -Unity2D
+> Unity2D
 
-> -Git & GitHub
+> Git & GitHub
 
 **Synopsis**
 Follow this two in the exploration of this technicolor world and see them rise to victory.
