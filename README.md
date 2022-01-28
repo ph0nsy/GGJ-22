@@ -1,7 +1,5 @@
 # GGJ-22
 
-[![Build Status] (https://github.com/ph0nsy/GGJ-22/tree/main)](https://github.com/ph0nsy/GGJ-22)
-
 Game for the 2022 Global Game Jam
 
 **Theme**: Duality
