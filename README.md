@@ -20,4 +20,5 @@ Game for the 2022 Global Game Jam
 > Git & GitHub
 
 **Synopsis**
-Follow this two in the exploration of this technicolor world and see them rise to victory.
+
+> Follow this two in the exploration of this technicolor world and see them rise to victory.
