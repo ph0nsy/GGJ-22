@@ -8,16 +8,21 @@ Game for the 2022 Global Game Jam
 
 ## Vice Duo
 
+**Name**
+
+Vice Duo
+
 **Genre**
 
-> Platform-Adventure
+Platform-Adventure
 
-**Technologies**:
-> -Photoshop
+**Technologies**
 
-> -Unity2D
+-Photoshop
 
-> -Git & GitHub
+-Unity2D
+
+-Git & GitHub
 
 **Synopsis**
 Follow this two in the exploration of this technicolor world and see them rise to victory.
