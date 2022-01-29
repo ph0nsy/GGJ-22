@@ -16,6 +16,7 @@ Vice Duo
 
 Platform-Adventure
 
+<<<<<<< HEAD
 **Technologies**
 
 -Photoshop
@@ -23,6 +24,15 @@ Platform-Adventure
 -Unity2D
 
 -Git & GitHub
+=======
+**Technologies**:
+> Photoshop
+
+> Unity2D
+
+> Git & GitHub
+>>>>>>> bd9ab8fd5b8c6500efa33c7db3edfb7ef7d50d0d
 
 **Synopsis**
-Follow this two in the exploration of this technicolor world and see them rise to victory.
+
+> Follow this two in the exploration of this technicolor world and see them rise to victory.
