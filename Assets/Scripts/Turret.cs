@@ -8,7 +8,7 @@ public class Turret : MonoBehaviour
     GameObject bullet;
     float fireRate;
     float nextFire;
-    public Transform position;
+    public Transform[] position;
     void Update()
     {
         CheckIfTimeToFire();
@@ -18,7 +18,10 @@ public class Turret : MonoBehaviour
     {
         if(Time.time > nextFire)
         {
-            Instantiate(bullet, position.transform.position, Quaternion.identity);
+            for (int i = 0; i<position.Length; i++)
+            {
+                Instantiate(bullet, position[i].transform.position, Quaternion.identity);
+            }
             nextFire = Time.time + fireRate;
         }
     }

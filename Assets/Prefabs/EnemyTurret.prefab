@@ -152,7 +152,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bullet: {fileID: 5200258538740112343, guid: 6cb62ae8b30cd9e4193e999c61a4994a, type: 3}
-  position: {fileID: 7038832044898032582}
+  position:
+  - {fileID: 7038832044898032582}
 --- !u!61 &7159127340889560889
 BoxCollider2D:
   m_ObjectHideFlags: 0
